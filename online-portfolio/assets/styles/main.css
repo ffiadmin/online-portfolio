@@ -1,0 +1,55 @@
+﻿/*
+ * General styles
+ * --------------------------------------
+*/
+
+* {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+html, body {
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+body {
+    background: #666666;
+    border-top: 5px solid #00FFD1;
+}
+
+
+/*
+ * Body content
+ * --------------------------------------
+*/
+
+header {
+    bottom: 0px;
+    color: #000000;
+    height: 186px;
+    left: 0px;
+    margin: auto;
+    position: absolute;
+    right: 0px;
+    text-align: center;
+    top: 0px;
+}
+
+header h1 {
+    font-size: 90px;
+    margin: 0px 50px 47px 50px;
+    text-shadow: 42px 27px 10px #555555;
+}
+
+header h2 {
+    margin: 0px;
+}
+
+@media screen and (max-width: 580px) {
+    header {
+        height: 300px;
+    }
+}

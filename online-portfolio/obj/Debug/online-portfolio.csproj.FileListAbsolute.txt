@@ -24,3 +24,8 @@ c:\users\administrator\documents\visual studio 2012\Projects\online-portfolio\on
 c:\users\administrator\documents\visual studio 2012\Projects\online-portfolio\online-portfolio\obj\Debug\online-portfolio.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2012\Projects\online-portfolio\online-portfolio\obj\Debug\online-portfolio.dll
 c:\users\administrator\documents\visual studio 2012\Projects\online-portfolio\online-portfolio\obj\Debug\online-portfolio.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\online-portfolio\online-portfolio\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\online-portfolio\online-portfolio\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\online-portfolio\online-portfolio\bin\WebGrease.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\online-portfolio\online-portfolio\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\online-portfolio\online-portfolio\bin\System.Web.Optimization.xml
